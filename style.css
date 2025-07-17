@@ -85,6 +85,27 @@ body {
   justify-content: center;
 }
 
+#fullscreen-button {
+  margin: 15px auto 0 auto;
+  display: block;
+  padding: 10px 20px;
+  background-color: #00ffcc;
+  border: none;
+  border-radius: 8px;
+  color: #000;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 10px #00ffcc;
+  transition: background 0.2s, transform 0.2s;
+}
+
+#fullscreen-button:hover {
+  background-color: #00e6b8;
+  transform: scale(1.05);
+}
+
+
 footer {
   position: absolute;
   bottom: 10px;
