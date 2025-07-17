@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Champions 3D</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="ruffle/ruffle.js"></script>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>⚽ Flash Zone</h2>
+    <ul>
+      <li><a href="#">🏠 Home</a></li>
+      <li><a href="#">🎮 Games</a></li>
+      <li><a href="#">📜 Info</a></li>
+      <li><a href="#">💬 Contacts</a></li>
+    </ul>
+  </div>
+
+  <main class="main-content">
+    <h1 class="title">The Champions 3D</h1>
+    <div id="flash-container">
+      <noscript>Attiva JavaScript per giocare.</noscript>
+    </div>
+  </main>
+
+  <footer>
+    Made with ❤️ by <a href="https://github.com/pixettonebboy" target="_blank">Achille Pisani</a> - Powered by <a href="https://ruffle.rs" target="_blank">Ruffle</a>
+  </footer>
+
+  <script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", () => {
+      const ruffle = window.RufflePlayer.newest();
+      const container = document.getElementById("flash-container");
+      const player = ruffle.createPlayer();
+      container.innerHTML = "";
+      container.appendChild(player);
+      player.load("secure_TheChampions3.swf");
+    });
+  </script>
+</body>
+</html>
