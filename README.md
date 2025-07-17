@@ -40,11 +40,11 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
     ```
 
     #### I put in the repository two easy Python scripts for turning on and off the server without using any other commands (start_server.py AND stop_server.py)  
-  - To run the server you can digit the command:
+  - To run the server you can go to the project's directory and digit the command:
    ```bash
    py start_server.py
     ```
-  - To stop the server you can digit the command:
+  - Than to stop the server you can digit the command:
    ```bash
    py stop_server.py
     ```
