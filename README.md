@@ -40,7 +40,6 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
     ```
 
     ##### I put in the repository two easy Python scripts for turning on and off the server (start_server.py AND stop_server.py)
-  (stop_server stops the server only if it's in background).
 
 *🔄 An alternative to the python script could be VS Code + Live Server*
 
