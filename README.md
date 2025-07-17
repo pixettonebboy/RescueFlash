@@ -1,6 +1,6 @@
 # RescueFlash
 I was with a friend and we discovered that most of the Flash games we used to play as kids have been unsupported by browsers for several years.  
-So I decided to do some research and write a page capable of running all those games, based on a soccer game I'd already assumed was Lost Media.  
+So I decided to do some research and build a page capable of running all those games, starting with a soccer game I'd already assumed was Lost Media.  
 So, welcome to...  
 
 # ⚽ The Champions 3D - Flash Revival Edition
