@@ -11,7 +11,7 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
 > ✅ Works on all modern browsers  
 > ✅ Beautiful dark-themed interface with custom CSS, game at the center
 
-> ## 🚀 How to Run the Game
+ ## 🚀 How to Run the Game
 
  ### 1. 📥 Download [Ruffle](https://ruffle.rs) (if you download this entire repository this step is already done) 
    - we need the self-hosted version
