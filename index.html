@@ -7,6 +7,14 @@
   <link rel="stylesheet" href="style.css">
   <script src="ruffle/ruffle.js"></script>
 </head>
+
+<!-- Ruffle -->
+<script src="ruffle/ruffle.js"></script>
+
+<!-- mio script -->
+<script src="script.js"></script>
+
+
 <body>
   <div class="sidebar">
     <h2>⚽ Flash Zone</h2>
@@ -23,22 +31,14 @@
     <div id="flash-container">
       <noscript>Attiva JavaScript per giocare.</noscript>
     </div>
+	
+	<!-- Bottone fullscreen -->
+	<button id="fullscreen-button">🖵 Fullscreen</button>
   </main>
 
   <footer>
     Made with ❤️ by <a href="https://github.com/pixettonebboy" target="_blank">Achille Pisani</a> - Powered by <a href="https://ruffle.rs" target="_blank">Ruffle</a>
   </footer>
 
-  <script>
-    window.RufflePlayer = window.RufflePlayer || {};
-    window.addEventListener("load", () => {
-      const ruffle = window.RufflePlayer.newest();
-      const container = document.getElementById("flash-container");
-      const player = ruffle.createPlayer();
-      container.innerHTML = "";
-      container.appendChild(player);
-      player.load("secure_TheChampions3.swf");
-    });
-  </script>
 </body>
 </html>
