@@ -45,11 +45,11 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
 *🔄 An alternative to the python script could be VS Code + Live Server*
 
 ### 🧠 Features:
-💡 Modern interface with dark mode and neon effects
-🎮 Flash game centered and responsive
-🎨 Fully customizable external CSS
-🧱 Sidebar navigation included
-⚙️ Works on Chrome, Edge, Firefox and more
+💡 Modern interface with dark mode and neon effects  
+🎮 Flash game centered and responsive  
+🎨 Fully customizable external CSS  
+🧱 Sidebar navigation (not already fully working)
+⚙️ I tried this on Chrome and Edge, it should work on all the browsers because it doesn't need flash.  
 
 ![Game preview](img/Screenshot.png)
 
