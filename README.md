@@ -5,7 +5,8 @@ So, welcome to...
 
 # ⚽ The Champions 3D - Flash Revival Edition
 
-Welcome to the modern version of **The Champions 3**, the iconic Flash football game now fully playable thanks to [Ruffle](https://ruffle.rs/), a safe and open-source emulator for `.swf` content.
+Welcome to the modern version of **The Champions 3**, the iconic Flash football game now fully playable thanks to [Ruffle](https://ruffle.rs/), a safe and open-source emulator for `.swf` content.  
+(I'm using this project for The Champions 3D, but changing the swf file we can play most of the Flash games on this page!).
 
 > ✅ No Adobe Flash Player required  
 > ✅ Works on all modern browsers  
