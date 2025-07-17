@@ -72,6 +72,19 @@ body {
   box-shadow: 0 0 20px #00ffcc;
 }
 
+#flash-container {
+  width: 800px;
+  height: 600px;
+  background-color: black;
+  border: 5px solid #00ffcc;
+  box-shadow: 0 0 20px #00ffcc;
+
+  /* Centrare*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 footer {
   position: absolute;
   bottom: 10px;
