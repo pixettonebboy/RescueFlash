@@ -63,7 +63,7 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
 
 
 ## ❤️ Credits
-- Original game: The Champions 3D (by Mousebreaker / Miniclip)
+- Original game: The Champions 3D (by [WitchHut](https://www.witchhut.com/))
 - Flash emulator: Ruffle.rs
 - Frontend development: Achille Pisani
 
