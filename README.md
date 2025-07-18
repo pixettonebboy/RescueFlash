@@ -24,7 +24,7 @@ Welcome to the modern version of **The Champions 3**, the iconic Flash football 
 ### 3. 🌐 Launch the app
 #### There are TWO WAYS:
 ##### 1️⃣ Just by opening the index.html (not recommended)
-  - I tried this method a few times but with many games (The Champions 3D included) it doesen't work.
+  - I tried this method a few times but with much games (The Champions 3D included) it doesen't work.
 ##### 2️⃣ Launch via local server (I'm doing this using Python):
   - Go to the "index.html"'s folder with your terminal
   - send the following command if you're using Windows:
